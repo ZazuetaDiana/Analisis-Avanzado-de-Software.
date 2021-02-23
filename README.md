@@ -5,6 +5,7 @@
 
 # Departamento de Sistemas y Computación
 # Ingeniería en Sistemas Computacionales
+# Semestre: Enero - Junio 2021
 # Analisis Avanzado de Software
 
 # Practica Bloque📝
@@ -15,10 +16,8 @@
 # 📝 Apellidos, Nombres y Num Control
 # Zazueta Lopez Diana   #18210546
    
+# Profesor: Enriquez Alvarez Jaime Leonardo.
 
-# Profesor:
-# Enriquez Alvarez Jaime Leonardo.
-# Semestre: Enero - Junio 2021
 
 -----
 

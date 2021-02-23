@@ -9,7 +9,7 @@
 
 # Practica Bloque📝
 
-  - [C0.1_IntegrarEquiposdeTrabajo_Disae.](U1/C0.1_IntegrarEquiposdeTrabajo_Disae.md)
+  - [C0.1_IntegrarEquiposdeTrabajo_Disae.md](U1/C0.1_IntegrarEquiposdeTrabajo_Disae.md)
 ----
 
 # 📝 Apellidos, Nombres y Num Control

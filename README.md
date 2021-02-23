@@ -1,4 +1,4 @@
-
+![]()
 #    Tecnológico Nacional de México
 #   Instituto Tecnológico de Tijuana
 #        Subdirección Académica
@@ -8,9 +8,9 @@
 # Semestre: Enero - Junio 2021
 # Analisis Avanzado de Software
 
-# Practica Bloque📝
+# Practicas U1📝
 
-  - [C0.1_IntegrarEquiposdeTrabajo_Disae.md](U1/C0.1_IntegrarEquiposdeTrabajo_Disae.md)
+  - ⏳[C0.1_IntegrarEquiposdeTrabajo_Disae.md](U1/C0.1_IntegrarEquiposdeTrabajo_Disae.md)
 ----
 
 # 📝 Apellidos, Nombres y Num Control

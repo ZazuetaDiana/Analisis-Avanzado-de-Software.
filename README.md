@@ -9,7 +9,7 @@
  
 # Analisis Avanzado de Software
 
-# Practicas U1📝
+# Practicas 📝
 
   - ⏳[C0.1_IntegrarEquiposdeTrabajo_ZazuetaLopezDiana.md](U1/C0.1_IntegrarEquiposdeTrabajo_ZazuetaLopezDiana.md)
 ----

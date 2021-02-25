@@ -7,7 +7,7 @@
     Ingeniería en Sistemas Computacionales
         Semestre: Enero - Junio 2021
  
-#Analisis Avanzado de Software
+# Analisis Avanzado de Software
 
 # Practicas U1📝
 

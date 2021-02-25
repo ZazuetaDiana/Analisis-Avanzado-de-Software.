@@ -9,6 +9,8 @@
  
 # Analisis Avanzado de Software
 
+ Profesor: Enriquez Alvarez Jaime Leonardo.
+
 # Practicas 📝
 
   - ⏳[C0.1_IntegrarEquiposdeTrabajo_ZazuetaLopezDiana.md](U1/C0.1_IntegrarEquiposdeTrabajo_ZazuetaLopezDiana.md)
@@ -16,9 +18,5 @@
  👩👩🏼👦👦Equipo: Disae
  
  📝Alumno: Zazueta Lopez Diana.   #18210546
- 
- Profesor: Enriquez Alvarez Jaime Leonardo.
-
-
 -----
 

@@ -10,9 +10,9 @@
 
 # Practicas U1📝
 
-  - ⏳[C0.1_IntegrarEquiposdeTrabajo_Disae.md](U1/C0.1_IntegrarEquiposdeTrabajo_Disae.md)
+  - ⏳[C0.1_IntegrarEquiposdeTrabajo_Disae.md](https://github.com/ZazuetaDiana/Analisis-Avanzado-de-Software./blob/main/U1/C0.1_IntegrarEquiposdeTrabajo_ZazuetaLopezDiana.md)
 ----
-
+# Equipo: Disae
 # 📝 Apellidos, Nombres y Num Control
 # Zazueta Lopez Diana   #18210546
    

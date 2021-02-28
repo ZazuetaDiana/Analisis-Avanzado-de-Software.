@@ -8,8 +8,11 @@
         Semestre: Enero - Junio 2021
  
 # Analisis Avanzado de Software
+👔 Datos del asesor de la materia
 
- Profesor: Enriquez Alvarez Jaime Leonardo.
+- Nombre: Leonardo Enriquez Alvarez
+- Licenciatura: Ingeniería electrónica, especialidad sistemas digitales
+- Maestría: Tecnologías de la información y comunicación
 
 # Practicas 📝
 

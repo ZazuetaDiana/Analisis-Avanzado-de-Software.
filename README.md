@@ -19,6 +19,7 @@
   - ⏳[C0.1_IntegrarEquiposdeTrabajo_ZazuetaLopezDiana.md](U1/C0.1_IntegrarEquiposdeTrabajo_ZazuetaLopezDiana.md)
 ----
  👩👩🏼👦👦Equipo: Disae
+ 
  Lider del equipo: Hernandez Fernandez Diana.
 ----
 

@@ -8,7 +8,7 @@
         Semestre: Enero - Junio 2021
  
 # Analisis Avanzado de Software
-👔 Datos del asesor de la materia
+👔### Datos del asesor de la materia
 
 - Nombre: Leonardo Enriquez Alvarez
 - Licenciatura: Ingeniería electrónica, especialidad sistemas digitales
@@ -20,6 +20,6 @@
 ----
  👩👩🏼👦👦Equipo: Disae
  
- 📝Alumno: Zazueta Lopez Diana.   #18210546
+ 📝##### Alumno: Zazueta Lopez Diana.   #18210546
 -----
 

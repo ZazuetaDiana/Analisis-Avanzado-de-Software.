@@ -19,7 +19,10 @@
   - ⏳[C0.1_IntegrarEquiposdeTrabajo_ZazuetaLopezDiana.md](U1/C0.1_IntegrarEquiposdeTrabajo_ZazuetaLopezDiana.md)
 ----
  👩👩🏼👦👦Equipo: Disae
- 
-## 📝Alumno: Zazueta Lopez Diana.   #18210546
+ Lider del equipo: Hernandez Fernandez Diana.
+----
+
+## 📝Alumna: Zazueta Lopez Diana.   #18210546
+Semestre: 7
 -----
 

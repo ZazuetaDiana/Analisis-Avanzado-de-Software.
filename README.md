@@ -7,7 +7,7 @@
                                                            Subdirección Académica
                                                      Departamento de Sistemas y Computación
                                                      Ingeniería en Sistemas Computacionales
-                                                         Semestre: Enero - Junio 2021
+                                                               Enero - Junio 2021
  
 # Analisis Avanzado de Software
 ### 👔Datos del asesor de la materia

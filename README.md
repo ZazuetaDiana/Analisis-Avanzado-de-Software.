@@ -1,6 +1,6 @@
 <p align="center">
        
-![](https://github.com/ZazuetaDiana/Analisis-Avanzado-de-Software./blob/main/Imagenes/logo_ITT1.png)
+       ![](https://github.com/ZazuetaDiana/Analisis-Avanzado-de-Software./blob/main/Imagenes/logo_ITT1.png)
 </p>
 
        Tecnológico Nacional de México

@@ -1,4 +1,4 @@
-       ![](https://github.com/ZazuetaDiana/Analisis-Avanzado-de-Software./blob/main/Imagenes/logo_ITT1.png)
+![](https://github.com/ZazuetaDiana/Analisis-Avanzado-de-Software./blob/main/Imagenes/logo_ITT1.png)
 
        Tecnológico Nacional de México
       Instituto Tecnológico de Tijuana

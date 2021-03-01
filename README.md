@@ -2,12 +2,12 @@
        <img alt="Logo" src="https://github.com/ZazuetaDiana/Analisis-Avanzado-de-Software./blob/main/Imagenes/logo_ITT1.png" width=200 height=200>   
 </p>
 
-                                                        Tecnológico Nacional de México
-                                                       Instituto Tecnológico de Tijuana
-                                                           Subdirección Académica
-                                                     Departamento de Sistemas y Computación
-                                                     Ingeniería en Sistemas Computacionales
-                                                               Enero - Junio 2021
+                                                Tecnológico Nacional de México
+                                                Instituto Tecnológico de Tijuana
+                                                   Subdirección Académica
+                                             Departamento de Sistemas y Computación
+                                             Ingeniería en Sistemas Computacionales
+                                                      Enero - Junio 2021
  
 # Analisis Avanzado de Software
 ### 👔Datos del asesor de la materia

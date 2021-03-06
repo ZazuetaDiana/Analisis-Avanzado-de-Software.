@@ -20,7 +20,7 @@
 
   - ⏳[C0.1_IntegrarEquiposdeTrabajo.md](U1/C0.1_IntegrarEquiposdeTrabajo_ZazuetaLopezDiana.md)
   - ⏳[C0.2_Tipodesistemadeinformación.md](U1/C0.2_Tipodesistemadeinformación_ZazuetaLopezDiana.md)
-  - ⏳[C0.2_Tipodesistemadeinformación.md](U1/C0.3_DiagramadeFlujo_Proceso.md)
+  - ⏳[C0.3_DiagramadeFlujo_Proceso.md](U1/C0.3_DiagramadeFlujo_Proceso_ZazuetaLopezDiana.md)
 
 ----
  👩👩🏼👦👦Equipo: Disae

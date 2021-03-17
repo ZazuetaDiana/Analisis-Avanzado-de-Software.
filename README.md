@@ -26,7 +26,7 @@
 ----
  👩👩🏼👦👦Equipo: Disae
  
- Lider del equipo: Hernandez Fernandez Diana.
+ Lider del equipo: Zazueta Lopez Diana.
 
 
 ## 📝Alumna: Zazueta Lopez Diana.   #18210546

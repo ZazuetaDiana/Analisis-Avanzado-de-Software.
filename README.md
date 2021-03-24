@@ -21,7 +21,8 @@
   - ⏳[C0.1_IntegrarEquiposdeTrabajo.md](U1/C0.1_IntegrarEquiposdeTrabajo_ZazuetaLopezDiana.md)
   - ⏳[C0.2_Tipodesistemadeinformación.md](U1/C0.2_Tipodesistemadeinformación_ZazuetaLopezDiana.md)
   - ⏳[C0.3_DiagramadeFlujo_Proceso.md](U1/C0.3_DiagramadeFlujo_Proceso_ZazuetaLopezDiana.md)
-  - ⏳[A0.1_Compilation_Interview.md](U1/A0.1_Compilation_Interview_ZazuetaDiana.md)
+  - ⏳[A0.1_Compilation_Interview.md](U1/A0.1_Compilation_Interview_ZazuetaDiana2.0.md)
+  - ⏳[A0.1_Compilation_Interview.md](U1/A0.1_Compilation_Interview_ZazuetaDiana2.0.md)
 
 ----
  👩👩🏼👦👦Equipo: Disae

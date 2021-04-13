@@ -34,7 +34,7 @@
  Lider del equipo: Zazueta Lopez Diana.
 
 
-## 📝Alumna: Zazueta Lopez Diana.   #18210546
+## 📝 Alumna: Zazueta Lopez Diana.   #18210546
 Semestre: 7
 -----
 

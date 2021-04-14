@@ -25,7 +25,7 @@
   - 🏆[A0.1_Compilation_Interview.md](U1/A0.1_Compilation_Interview_ZazuetaDiana2.0.md)
   - ⏳[C1.1_ObjetivosGenerales_Especificos.md](U1/C1.1_ObjetivosGenerales_Especificos_ZazuetaDiana.md)
   - ⏳[C1.2_ActaConstitutiva_delProyecto.md](U1/C1.2_ActaConstitutiva_delProyecto_ZazuetaDiana.md)
-  
+  - ⏳[C1.3_Requisitos_del_sistema.md](U1/C1.3_Requisitos_del_sistema_ZazuetaDiana.md)
 
 
 ----

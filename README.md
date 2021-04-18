@@ -26,6 +26,8 @@
   - ⏳[C1.1_ObjetivosGenerales_Especificos.md](U1/C1.1_ObjetivosGenerales_Especificos_ZazuetaDiana.md)
   - ⏳[C1.2_ActaConstitutiva_delProyecto.md](U1/C1.2_ActaConstitutiva_delProyecto_ZazuetaDiana.md)
   - ⏳[C1.3_Requisitos_del_sistema.md](U1/C1.3_Requisitos_del_sistema_ZazuetaDiana.md)
+  - 🏆[A1.0_ConstitutiveAct_oftheProject.md](U1/A1.0_ConstitutiveAct_oftheProject_ZazuetaDiana.md)
+
 
 
 ----

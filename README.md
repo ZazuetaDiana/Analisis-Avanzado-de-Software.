@@ -28,7 +28,7 @@
   - ⏳[C1.3_Requisitos_del_sistema.md](U1/C1.3_Requisitos_del_sistema_ZazuetaDiana.md)
   - 🏆[A1.0_ConstitutiveAct_oftheProject.md](U1/A1.0_ConstitutiveAct_oftheProject_ZazuetaDiana.md)
   - ⏳[C1.4_UML_Casos_de_uso_secuencia_clases.md](U1/C1.4_UML_Casos_de_uso_secuencia_clases_ZazuetaDiana.md)
-
+  - ⏳[C1.5_UML_Estado_componentes_distribucion.md](U1/C1.5_UML_Estado_componentes_distribucion_ZazuetaDiana.md)
 
 
 ----

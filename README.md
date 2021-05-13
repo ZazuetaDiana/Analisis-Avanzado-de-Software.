@@ -31,6 +31,8 @@
   - ⏳[C1.5_UML_Estado_componentes_distribucion.md](U1/C1.5_UML_Estado_componentes_distribucion_ZazuetaDiana.md)
   - 🏆[A1.1_ModelingRequirements_UML_ZazuetaDiana.md](U1/A1.1_ModelingRequirements_UML_ZazuetaDiana.md)
   - ⏳[C2.1_EspecificacionRequerimientos_Funcionales.md](U1/C2.1_EspecificacionRequerimientos_Funcionales_ZazuetaDiana.md)
+  ![⏳A2.1_Specification_of_requirements_and_documentation]()
+  
 
 
 ----

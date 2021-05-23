@@ -33,6 +33,8 @@
   - ⏳[C2.1_EspecificacionRequerimientos_Funcionales.md](U1/C2.1_EspecificacionRequerimientos_Funcionales_ZazuetaDiana.md)
   - 🏆[A2.1_Specification_of_requirements_and_documentation](U1/A2.1_Specification_of_requirements_and_documentation_ZazuetaDiana.pdf)
   - 🏆[A2.2_Architecture_design_4+1.md](U1/A2.2_Architecture_design_4%2B1_ZazuetaDiana.pdf)
+  - 🏆[A2.2_Architecture_design_4+1.md](U1/A2.3_Software_architecture_Patterns_ZazuetaDiana.pdf)
+  
 
 
   

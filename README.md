@@ -37,6 +37,8 @@
   - 🏆[A2.3_Software_architecture_Patterns.md](U1/A2.3_Software_architecture_Patterns_ZazuetaDiana.md)
 ## Unidad 4
   - 🏆[A3.1_Documentation _Scrum_StartPhase_ZazuetaDiana](U1/A3.1_Documentation%20_Scrum_StartPhase_ZazuetaDiana%20(1).pdf)
+  - 🏆[A3.1_Documentation _Scrum_StartPhase_ZazuetaDiana](U1/A3.2%20Start%20phase%20Artifacts_ZazuetaDiana.pdf)
+
   
 
 

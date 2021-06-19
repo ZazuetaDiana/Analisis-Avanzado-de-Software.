@@ -38,7 +38,7 @@
 ## Unidad 4
   - 🏆[A3.1 Documentation Scrum StartPhase](U1/A3.1_Documentation%20_Scrum_StartPhase_ZazuetaDiana%20(1).pdf)
   - 🏆[A3.2 Start phase Artifacts](U1/A3.2%20Start%20phase%20Artifacts_ZazuetaDiana.pdf)
-  - 🏆[A3.3 Architecture using Model ](U1/A3.2%20Start%20phase%20Artifacts_ZazuetaDiana.pdf)
+  - 🏆[A3.3 Architecture using Model C4 ](U1/A3.2%20Start%20phase%20Artifacts_ZazuetaDiana.pdf)
 
   
 

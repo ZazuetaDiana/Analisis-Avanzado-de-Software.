@@ -29,16 +29,16 @@
   - 🏆[A1.0_ConstitutiveAct_oftheProject.md](U1/A1.0_ConstitutiveAct_oftheProject_ZazuetaDiana.md)
   - ⏳[C1.4_UML_Casos_de_uso_secuencia_clases.md](U1/C1.4_UML_Casos_de_uso_secuencia_clases_ZazuetaDiana.md)
   - ⏳[C1.5_UML_Estado_componentes_distribucion.md](U1/C1.5_UML_Estado_componentes_distribucion_ZazuetaDiana.md)
-  - 🏆[A1.1_ModelingRequirements_UML_ZazuetaDiana.md](U1/A1.1_ModelingRequirements_UML_ZazuetaDiana.md)
+  - 🏆[A1.1_ModelingRequirements_UML.md](U1/A1.1_ModelingRequirements_UML_ZazuetaDiana.md)
 ## Unidad 3
-  - ⏳[C2.1_EspecificacionRequerimientos_Funcionales.md](U1/C2.1_EspecificacionRequerimientos_Funcionales_ZazuetaDiana.md)
-  - 🏆[A2.1_Specification_of_requirements_and_documentation](U1/A2.1_Specification_of_requirements_and_documentation_ZazuetaDiana.pdf)
-  - 🏆[A2.2_Architecture_design_4+1.md](U1/A2.2_Architecture_design_4%2B1_ZazuetaDiana.pdf)
-  - 🏆[A2.3_Software_architecture_Patterns.md](U1/A2.3_Software_architecture_Patterns_ZazuetaDiana.md)
+  - ⏳[C2.1 Especificacion RequerimientosFuncionales.md](U1/C2.1_EspecificacionRequerimientos_Funcionales_ZazuetaDiana.md)
+  - 🏆[A2.1 Specification of requirements and documentation](U1/A2.1_Specification_of_requirements_and_documentation_ZazuetaDiana.pdf)
+  - 🏆[A2.2 Architecture design 4+1.md](U1/A2.2_Architecture_design_4%2B1_ZazuetaDiana.pdf)
+  - 🏆[A2.3 Software architecture Patterns.md](U1/A2.3_Software_architecture_Patterns_ZazuetaDiana.md)
 ## Unidad 4
-  - 🏆[A3.1 Documentation Scrum StartPhase ZazuetaDiana](U1/A3.1_Documentation%20_Scrum_StartPhase_ZazuetaDiana%20(1).pdf)
-  - 🏆[A3.2 Start phase Artifacts ZazuetaDiana](U1/A3.2%20Start%20phase%20Artifacts_ZazuetaDiana.pdf)
-  - 🏆[A3.3 Architecture using Model C4.md_ZazuetaDiana](U1/A3.2%20Start%20phase%20Artifacts_ZazuetaDiana.pdf)
+  - 🏆[A3.1 Documentation Scrum StartPhase](U1/A3.1_Documentation%20_Scrum_StartPhase_ZazuetaDiana%20(1).pdf)
+  - 🏆[A3.2 Start phase Artifacts](U1/A3.2%20Start%20phase%20Artifacts_ZazuetaDiana.pdf)
+  - 🏆[A3.3 Architecture using Model ](U1/A3.2%20Start%20phase%20Artifacts_ZazuetaDiana.pdf)
 
   
 

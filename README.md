@@ -36,9 +36,9 @@
   - 🏆[A2.2_Architecture_design_4+1.md](U1/A2.2_Architecture_design_4%2B1_ZazuetaDiana.pdf)
   - 🏆[A2.3_Software_architecture_Patterns.md](U1/A2.3_Software_architecture_Patterns_ZazuetaDiana.md)
 ## Unidad 4
-  - 🏆[A3.1_Documentation _Scrum_StartPhase_ZazuetaDiana](U1/A3.1_Documentation%20_Scrum_StartPhase_ZazuetaDiana%20(1).pdf)
-  - 🏆[A3.2 Start phase Artifacts_ZazuetaDiana](U1/A3.2%20Start%20phase%20Artifacts_ZazuetaDiana.pdf)
-  - 🏆[A3.3_Architecture_using Model C4.md_ZazuetaDiana](U1/A3.2%20Start%20phase%20Artifacts_ZazuetaDiana.pdf)
+  - 🏆[A3.1 Documentation Scrum StartPhase ZazuetaDiana](U1/A3.1_Documentation%20_Scrum_StartPhase_ZazuetaDiana%20(1).pdf)
+  - 🏆[A3.2 Start phase Artifacts ZazuetaDiana](U1/A3.2%20Start%20phase%20Artifacts_ZazuetaDiana.pdf)
+  - 🏆[A3.3 Architecture using Model C4.md_ZazuetaDiana](U1/A3.2%20Start%20phase%20Artifacts_ZazuetaDiana.pdf)
 
   
 

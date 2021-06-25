@@ -40,7 +40,6 @@
   - 🏆[A3.2 Start phase Artifacts](U1/A3.2%20Start%20phase%20Artifacts_ZazuetaDiana.pdf)
   - 🏆[A3.3 Architecture using Model C4 ](U1/A3.3_Architectureusing_ModelC4_ZazuetaDiana.pdf)
   - 🏆[A3.4 Scrum Artifacts Planning Estimation](U1/A3.4_Scrum_Artifacts_PlanningEstimation_ZazuetaDiana.pdf)
-)
 
   
 
